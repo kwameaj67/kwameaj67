@@ -62,9 +62,8 @@ based in manchester, where the weather is a personality trait 🌧️
 
 ### say hi
 
-- ask me about ios architecture, video pipelines or offline sync.
+- ask me about ios architecture, scikit-learn or offline sync.
 - or on-device ml, rl agents and reward functions that went wrong.
-- or why your upload "just stopped" (it was the os, it's always the os).
 
 💼 [linkedin](https://www.linkedin.com/in/kwame-agyenim-boateng/)
 
