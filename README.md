@@ -10,25 +10,11 @@ based in manchester, where the weather is a personality trait 🌧️
 
 ---
 
-### things i've learned the hard way
-
-- offline-first is a promise, not a feature flag.
-- a payment that syncs twice is a very awkward bug report.
-- ios will suspend your app at the worst possible moment, so uploads run as background transfers.
-- actors don't remove data races, they just make them your fault in a new way.
-- every `await` is a chance for the world to change behind your back.
-- `AVCaptureSession` has opinions, and they belong off the main thread.
-- a dropped frame is gone forever.
-- instruments is my favourite debugger and time profiler is my favourite tv show.
-
----
-
 ### things machine learning taught me
 
-- your model is only as good as the data you didn't look at closely enough.
+- your model is only as good as the data if you didn't look at closely enough.
 - if validation accuracy looks too good, you probably leaked something.
-- gradient descent is just vibes with calculus.
-- a model that runs in the cloud is a demo, a model that runs on the phone is a product.
+- a model that runs on the phone is a product.
 
 ---
 
